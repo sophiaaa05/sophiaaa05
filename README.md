@@ -19,7 +19,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Spaceship" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png">
+<img align="right" alt="Spaceship" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png">
 
 ```typescript
 const sophia = {
