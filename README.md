@@ -4,9 +4,15 @@
 
 ### 🌌 Computer Science and Engineering Student | Robotics & Graphics Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MSc+Communication+Systems+%40+KTH;Full-Stack+Developer;Robotics+%26+Graphics+Enthusiast;Building+the+future%2C+one+commit+at+a+time;🛸+Exploring+the+digital+universe..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MSc+Communication+Systems+%40+KTH;Full-Stack+Developer;Robotics+%26+Graphics+Enthusiast;Building+the+future%2C+one+commit+at+a+time;🛸+Exploring+the+digital+universe...">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0a0a2e,30:16213e,50:0f3460,70:16213e,90:0a0a2e,100:000000&height=150&section=header&text=◦%20WELCOME%20TO%20MY%20ORBIT%20◦&fontSize=35&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Navigating%20through%20code%20and%20cosmos&descSize=14&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0a0a2e,30:16213e,50:0f3460,70:16213e,90:0a0a2e,100:000000&height=200&section=header&text=WELCOME%20TO%20MY%20ORBIT&fontSize=40&fontColor=00D9FF&animation=twinkling&fontAlignY=35&desc=⭐%20Navigating%20through%20code%20and%20cosmos%20⭐&descSize=16&descAlignY=55&descAlign=50">
+
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=✨+Building+scalable+systems+one+commit+at+a+time;🌠+Exploring+autonomous+robotics+and+AI;🚀+Master's+student+%40+KTH+Royal+Institute;💫+Passionate+about+computer+graphics+%26+networking)](https://git.io/typing-svg)
 
 </div>
 
@@ -93,11 +99,11 @@ const sophia = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiaaa05&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiaaa05&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sophiaaa05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sophiaaa05&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 </div>
 
 ---
@@ -122,5 +128,5 @@ const sophia = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0a0a2e,30:16213e,50:0f3460,70:16213e,90:0a0a2e,100:000000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0a0a2e,30:16213e,50:0f3460,70:16213e,90:0a0a2e,100:000000&height=120&section=footer&animation=twinkling">
 </div>
