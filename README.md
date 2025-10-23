@@ -1,15 +1,13 @@
 <div align="center">
 
 <h1>🚀 Hi, I'm Sophia :)</h1>
-<h3>🌌 Computer Science & Engineering Student | Robotics & Graphics Enthusiast</h3>
+<h3>🌌 Computer Science & Engineering Student | Robotics & Graphics Enthusiast 🛸</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=B794F4&center=true&vCenter=true&width=600&lines=MSc+Communication+Systems+%40+KTH;Full-Stack+Developer;Robotics+%26+Graphics+Enthusiast;Building+the+future%2C+one+commit+at+a+time;🛸+Exploring+the+digital+universe..." />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,30:4a148c,60:7b1fa2,100:9c27b0&height=200&section=header&text=WELCOME%20TO%20MY%20ORBIT&fontSize=42&fontColor=E1BEE7&animation=fadeIn&fontAlignY=35&desc=⭐%20Navigating%20through%20code%20and%20cosmos%20⭐&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,30:4a148c,60:7b1fa2,100:9c27b0&height=180&section=header&text=WELCOME%20TO%20MY%20ORBIT&fontSize=38&fontColor=E1BEE7&animation=twinkling&fontAlignY=38&desc=⭐%20Navigating%20through%20code%20and%20cosmos%20⭐&descAlignY=58&descSize=15" />
 
-</div>
-
-<div align="center">
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=B794F4&center=true&vCenter=true&width=800&lines=✨+Building+scalable+systems+one+commit+at+a+time;🌠+Exploring+autonomous+robotics+and+AI;🚀+Master's+student+%40+KTH+Royal+Institute;💫+Passionate+about+computer+graphics+%26+networking;🪐+Debugging+in+the+cosmos+of+code)](https://git.io/typing-svg)
 
@@ -19,7 +17,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Spaceship" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png">
+<img align="right" alt="Spaceship" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png">
 
 ```typescript
 const sophia = {
@@ -131,10 +129,6 @@ const sophia = {
 
 ---
 
-### 🛸 Current Coordinates
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=🌌+Navigating+through+the+cosmic+codebase;✨+Status%3A+Launching+new+projects+into+orbit;🪐+Currently+exploring%3A+Deep+space+networking;💫+Coffee+consumed%3A+Infinite+☕;🚀+Bugs+squashed%3A+Counting...;⭐+Dream%3A+Building+the+future+with+code" alt="Typing SVG" />
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sophiaaa05&color=9C27B0&style=for-the-badge&label=VISITORS+FROM+EARTH)
@@ -150,4 +144,3 @@ const sophia = {
 </div>
 
 ---
-
