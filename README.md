@@ -79,18 +79,18 @@ const sophia = {
 </table>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **Autonomous Robot Pathfinding** | Algorithm for real-time navigation in competitive robotics | `Python` `ROS` `Computer Vision` |
-| 🌐 **Full-Stack Web Platform** | Dynamic web application with responsive UI | `Java` `JavaScript` `REST API` |
-| ⚙️ **OS & Architecture Labs** | Low-level system optimization and performance tuning | `C` `Assembly` `Linux` |
-
-</div>
+1. //
+2. ## 🚀 Featured Projects
+3. 
+4. <div align="center">
+5. 
+6. | Project | Description | Tech Stack |
+7. |---------|-------------|------------|
+8. | 🤖 **Autonomous Robot Pathfinding** | Algorithm for real-time navigation in competitive robotics | `Python` `ROS` `Computer Vision` |
+9. | 🌐 **Full-Stack Web Platform** | Dynamic web application with responsive UI | `Java` `JavaScript` `REST API` |
+10. | ⚙️ **OS & Architecture Labs** | Low-level system optimization and performance tuning | `C` `Assembly` `Linux` |
+11. 
+12. </div>
 
 ---
 
