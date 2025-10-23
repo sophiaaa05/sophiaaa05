@@ -19,17 +19,36 @@
 
 <img align="right" alt="Spaceship" width="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png">
 
-```typescript
-const sophia = {
-  location: "Stockholm, Sweden 🇸🇪",
-  education: {
-    current: "MSc Communication Systems - Internetworking Track @ KTH Royal Institute of Technology",
-    previous: "BSc Computer Science & Engineering @ Instituto Superior Técnico"
-  },
-  interests: ["Robotics 🤖", "Computer Graphics 🎨", "Systems Design 🧩", "Networking 📡"],
-  currentFocus: "Building scalable systems & exploring autonomous robotics",
-  funFact: "I debug with Monster Energy 🟢 and create with music 🎸🎹",
-  codePhilosophy: "// TODO: Make the universe a better place, one line at a time 🌌"
+```c
+struct Education {
+    char *current;
+    char *previous;
+};
+
+struct Sophia {
+    char *location;
+    struct Education education;
+    char *interests[4];
+    char *currentFocus;
+    char *funFact;
+    char *codePhilosophy;
+};
+
+struct Sophia sophia = {
+    .location = "Stockholm, Sweden 🇸🇪",
+    .education = {
+        .current = "MSc Communication Systems - Internetworking Track @ KTH Royal Institute of Technology",
+        .previous = "BSc Computer Science & Engineering @ Instituto Superior Técnico"
+    },
+    .interests = {
+        "Robotics 🤖",
+        "Computer Graphics 🎨", 
+        "Systems Design 🧩",
+        "Networking 📡"
+    },
+    .currentFocus = "Building scalable systems & exploring autonomous robotics",
+    .funFact = "I debug with Monster Energy 🟢 and create with music 🎸🎹",
+    .codePhilosophy = "// TODO: Make the universe a better place, one line at a time 🌌"
 };
 ```
 
