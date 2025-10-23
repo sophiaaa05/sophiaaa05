@@ -143,9 +143,6 @@ struct Sophia sophia = {
 ### 💭 "Nothing contributes so much to tranquillize the mind as a steady purpose." 
 *― Mary Shelley, Frankenstein*
 
-### 🌠 "First, solve the problem. Then, write the code." 
-*― John Johnson*
-
 ---
 
 <br/>
