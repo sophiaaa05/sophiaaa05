@@ -1,10 +1,12 @@
 <div align="center">
   
-# 👋 Hi, I'm Sophia :)
+# 🚀 Hi, I'm Sophia :)
 
-### 🚀 Computer Science and Engineering Student | Robotics & Graphics Enthusiast
+### 🌌 Computer Science and Engineering Student | Robotics & Graphics Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MSc+Communication+Systems+%40+KTH;Full-Stack+Developer;Robotics+%26+Graphics+Enthusiast;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MSc+Communication+Systems+%40+KTH;Full-Stack+Developer;Robotics+%26+Graphics+Enthusiast;Building+the+future%2C+one+commit+at+a+time;🛸+Exploring+the+digital+universe..." alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=120&section=header&text=Welcome+to+my+Digital+Space&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
 
@@ -20,7 +22,8 @@ const sophia = {
     },
     interests: ["Robotics 🤖", "Computer Graphics 🎨", "Systems Design 🧩", "Networking 📡"],
     currentFocus: "Building scalable systems & exploring autonomous robotics",
-    funFact: "I debug with Monster Energy 🟢 and create with music 🎸🎹"
+    funFact: "I debug with Monster Energy 🟢 and create with music 🎸🎹",
+    codePhilosophy: "// TODO: Make the universe a better place, one line at a time 🌌"
 };
 ```
 
@@ -30,19 +33,19 @@ const sophia = {
 
 <div align="center">
 
-### Languages & Frameworks
+### 🛸 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### Systems & Tools
+### ⚙️ Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Interests
+### 🌌 Mission Control (Interests)
 ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-blueviolet?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/Robotics-Pathfinding-success?style=for-the-badge)
 ![Computer Graphics](https://img.shields.io/badge/Graphics-Rendering-orange?style=for-the-badge)
@@ -51,7 +54,7 @@ const sophia = {
 
 ---
 
-## 💼 Professional Experience
+## 💼 Mission Log: Professional Experience
 
 <table>
 <tr>
@@ -67,10 +70,10 @@ const sophia = {
 </td>
 <td width="50%">
 
-### 🤖 Robotics Department colaborator
+### 🤖 Robotics Department Collaborator
 **Instituto Superior Técnico** | *2023 – 2025*
 
-- 🔹 A part team for **FNR competition** with Python-based autonomous navigation
+- 🔹 Part of team for **FNR competition** with Python-based autonomous navigation
 - 🔹 Developed department website and technical documentation
 - 🔹 Mentored junior team members in robotics and programming
 
@@ -80,16 +83,17 @@ const sophia = {
 
 ---
 
-
-## 📊 GitHub Analytics
+## 🛰️ Transmission Status: GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophiaaa05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaaa05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sophiaaa05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaaa05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiaaa05&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakNum=FFFFFF&currStreakLabel=00D9FF" alt="Sophia's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiaaa05&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=00D9FF" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -100,14 +104,23 @@ const sophia = {
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." – John Johnson
+### 💭 "Nothing contributes so much to tranquillize the mind as a steady purpose." 
+*― Mary Shelley, Frankenstein*
 
-![Profile Views](https://komarev.com/ghpvc/?username=sophiaaa05&color=00D9FF&style=for-the-badge)
+### 🌠 "First, solve the problem. Then, write the code." 
+*― John Johnson*
+
+### 🛸 Current Coordinates
+![Profile Views](https://komarev.com/ghpvc/?username=sophiaaa05&color=00D9FF&style=for-the-badge&label=VISITORS+FROM+EARTH)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> **Status:** Launching new projects into orbit 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" /> **Currently exploring:** Deep space networking protocols
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=100&section=footer" width="100%"/>
 </div>
