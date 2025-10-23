@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Sophia Alencar
+# 👋 Hi, I'm Sophia :)
 
 ### 🚀 Computer Science and Engineering Student | Robotics & Graphics Enthusiast
 
