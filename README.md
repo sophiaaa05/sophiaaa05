@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MSc+Communication+Systems+%40+KTH;Full-Stack+Developer;Robotics+%26+Graphics+Enthusiast;Building+the+future%2C+one+commit+at+a+time;🛸+Exploring+the+digital+universe..." alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=120&section=header&text=Welcome+to+my+Digital+Space&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243694,50:264059,100:0D1117&height=150&section=header&text=◦%20WELCOME%20TO%20MY%20ORBIT%20◦&fontSize=35&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Navigating%20through%20code%20and%20cosmos&descSize=14&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
@@ -122,5 +122,5 @@ const sophia = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,27&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:264059,100:243694&height=120&section=footer" width="100%"/>
 </div>
