@@ -76,6 +76,8 @@ struct Sophia sophia = {
 ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-9333ea?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/Robotics-Pathfinding-a855f7?style=for-the-badge)
 ![Computer Graphics](https://img.shields.io/badge/Graphics-Rendering-c084fc?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-c084fc?style=for-the-badge)
+
 
 </div>
 
