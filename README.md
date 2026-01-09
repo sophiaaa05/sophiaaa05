@@ -113,16 +113,6 @@ struct Sophia sophia = {
 ## 🛰️ Transmission Status: GitHub Analytics
 
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sophiaaa05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b2e&title_color=B794F4&icon_color=9C27B0&text_color=E1BEE7&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sophiaaa05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0b2e&title_color=B794F4&icon_color=9C27B0&text_color=E1BEE7&rank_icon=github"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaaa05&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=B794F4&text_color=E1BEE7"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiaaa05&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0b2e&title_color=B794F4&text_color=E1BEE7"/>
-</picture>
 
 </div>
 
