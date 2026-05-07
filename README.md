@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>🚀 Hi, I'm Sophia :)</h1>
-<h3>🌌 CS & Engineering @ KTH | Fusing Graphics with Digital Archaeology 🏺</h3>
+<h3>🌌 CS & Engineer doing communication systems master @ KTH 
 
 <br/>
 
